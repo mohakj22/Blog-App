@@ -6,7 +6,7 @@ const useFetch = (url) => {
   const [isPending, setPending] = useState(true);
   useEffect(() => {
     const abortCont = new AbortController();
-    const blogList = async () => {
+    const blogList = () => {
       setTimeout(async () => {
         try {
           let response = await fetch(url, {signal: abortCont.signal});
@@ -24,7 +24,7 @@ const useFetch = (url) => {
             "We're very sorry, but there was an error fetching the data. We sincerely apologize for any inconvenience this may have caused."
           );
         }
-      }, 1000);
+      }, 500);
       return () => abortCont.abort();
     };
     blogList();
@@ -32,7 +32,7 @@ const useFetch = (url) => {
   const hadndleDelete = (id) => {
     const newBlogs = data.filter((blog) => blog.id !== id);
     setData(newBlogs);
-    console.log(data);
+    console.log(data);  
   };
   return { data, isPending, message, hadndleDelete };
 };

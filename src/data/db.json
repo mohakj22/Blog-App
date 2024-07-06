@@ -19,30 +19,30 @@
       "body": "What started as a simple camping trip turned into an unforgettable adventure. As night fell, strange noises echoed through the forest, and shadows danced around our campfire. Our hearts raced with every rustle of leaves, but curiosity drove us deeper into the woods. We stumbled upon an abandoned cabin, its eerie silence sending shivers down our spines. That night, we discovered more than we bargained for, and the memories of that thrilling experience will stay with us forever.",
       "author": "Priya",
       "user_id": "priyaN2024",
-      "id": 3
+      "id": 500
     },
     {
-        "title": "Exploring the Depths of Machine Learning",
-        "body": "Machine learning continues to revolutionize industries worldwide. From self-driving cars to personalized recommendations, its applications are limitless. This article delves into the fundamentals of machine learning, its algorithms, and real-world applications that are shaping our future.",
-        "author": "Emma Watson",
-        "user_id": "emma_watson",
-        "id": 4
-    },
-
-    {
-        "title": "The Rise of Sustainable Fashion",
-        "body": "Sustainable fashion is more than just a trend; it’s a movement towards ethical and eco-friendly clothing. This blog explores how fashion brands are adopting sustainable practices, the impact on the environment, and why consumers are increasingly prioritizing sustainability in their purchasing decisions.",
-        "author": "David Miller",
-        "user_id": "david_miller",
-        "id": 5
+      "title": "Exploring the Depths of Machine Learning",
+      "body": "Machine learning continues to revolutionize industries worldwide. From self-driving cars to personalized recommendations, its applications are limitless. This article delves into the fundamentals of machine learning, its algorithms, and real-world applications that are shaping our future.",
+      "author": "Emma Watson",
+      "user_id": "emma_watson",
+      "id": 4
     },
 
     {
-        "title": "Exploring the Marvel Cinematic Universe",
-        "body": "The Marvel Cinematic Universe (MCU) has captivated audiences worldwide with its interconnected superhero stories. From Iron Man to Avengers: Endgame, this blog takes a deep dive into the evolution of the MCU, its cultural impact, and what the future holds for Marvel fans.",
-        "author": "Sophia Lee",
-        "user_id": "sophia_lee",
-        "id": 6
+      "title": "The Rise of Sustainable Fashion",
+      "body": "Sustainable fashion is more than just a trend; it’s a movement towards ethical and eco-friendly clothing. This blog explores how fashion brands are adopting sustainable practices, the impact on the environment, and why consumers are increasingly prioritizing sustainability in their purchasing decisions.",
+      "author": "David Miller",
+      "user_id": "david_miller",
+      "id": 5
+    },
+
+    {
+      "title": "Exploring the Marvel Cinematic Universe",
+      "body": "The Marvel Cinematic Universe (MCU) has captivated audiences worldwide with its interconnected superhero stories. From Iron Man to Avengers: Endgame, this blog takes a deep dive into the evolution of the MCU, its cultural impact, and what the future holds for Marvel fans.",
+      "author": "Sophia Lee",
+      "user_id": "sophia_lee",
+      "id": 6
     }
   ]
 }
